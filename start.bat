@@ -1,2 +1,2 @@
-node main.js
+npm i
 pause
